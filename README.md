@@ -1,4 +1,4 @@
-### A Website mimicing the asethetics of the google search engine
+### A Website mimicing the asthetics of the google search engine
 
 <!--
 **QuietkidAniket/QuietkidAniket** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
